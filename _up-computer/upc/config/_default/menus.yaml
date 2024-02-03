@@ -1,0 +1,8 @@
+main:
+  - name: WORLD PIECE COMPUTER
+    url: 'https://blairmunroakusa.wp.computer'
+    weight: 1
+  - name: $
+    url: 'https://time-machine-for-peace.myshopify.com'
+    weight: 1
+

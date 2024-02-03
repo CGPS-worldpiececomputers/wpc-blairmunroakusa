@@ -1,0 +1,48 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/portraitcollage2.jpg
+  image_webp : images/about/portraitcollage2.webp
+  title : "Hi! I'm Blair."
+  content000 : "This website is currently under total(ish) resonstruction. To view original website, [please enter by clicking HERE (AT YOUR OWN RISK).](https://summer2021.blairmunroakusa.wp.computer)"
+  content00 :
+  content01 :
+  content02 :
+  content03 :
+  content04 :
+  content100 :
+  content10 :
+  content11 :
+  content12 :
+
+  content5ws :
+  feature_item : 
+      # feature item loop
+    - title : "WHO"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 
+      
+      # feature item loop
+    - title : "WHY"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content :
+
+      # feature item loop
+    - title : "HOW"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content :
+      
+      # feature item loop
+    - title : "WHAT"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content :
+
+      # feature item loop
+    - title : "WHERE"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content :
+
+      # feature item loop
+    - title : "WHEN"
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content :

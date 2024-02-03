@@ -1,0 +1,9 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Follow !
+  service_item :
+    # service item loop
+    - name : Leadership is overglorified. I am just a lone nut.
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : 

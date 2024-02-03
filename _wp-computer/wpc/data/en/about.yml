@@ -1,0 +1,47 @@
+############################ About ###################################
+about:
+  enable : true
+  title : I'm ...
+  about_item :
+  - icon : 
+    title : "Inventing a 'time machine'"
+
+    content :
+    address :
+    link :
+
+  - icon :
+    title : "A world piece computer"
+    content :
+    address :
+    link :
+
+  - icon : 
+    title : "Quality + Timespace"
+    content :
+    address :
+    link :
+
+  - icon : 
+    title : "How does the 'timetravel' work?"
+    content :
+    address :
+    link :
+
+  - icon : 
+    title : "What's the point?"
+    content :
+    address :
+    link :
+
+  - icon : 
+    title : "What's the objective?"
+    content :
+    address :
+    link :
+
+  - icon : 
+    title : "Endgame: The Universal Peace Computer"
+    content :
+    address :
+    link :
